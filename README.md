@@ -18,6 +18,11 @@
 
 ### Learning Inpainting
 
+* Shepard Convolutional Neural Networks (NIPS 2015). _Ren, J. S., Xu, L., Yan, Q., & Sun, W._ [[Paper]](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)[[Code]](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
+* Context Encoders: Feature Learning by Inpainting (CVPR 2016). _Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros_ [[Paper]](https://arxiv.org/abs/1604.07379)[[Code]](https://github.com/pathak22/context-encoder)
+* Globally and Locally Consistent Image Completion (ToG 2017). _Iizuka, S., Simo-Serra, E., & Ishikawa, H._ [[Paper]](http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf)[[Code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)[[Project]](http://iizuka.cs.tsukuba.ac.jp/projects/completion/en/)
+* High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis (CVPR 2017). _Chao Yang, Xin Lu, Zhe Lin, Eli Shechtman, Oliver Wang, Hao Li_ [[Paper]](https://arxiv.org/abs/1611.09969)[[Code]](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)
+
 
 ## Video Inpainting
 
