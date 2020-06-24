@@ -77,6 +77,13 @@
 
 * Region Normalization for Image Inpainting (AAAI 2020). _Tao Yu, Zongyu Guo, Xin Jin, Shilin Wu, Zhibo Chen, Weiping Li, Zhizheng Zhang, Sen Liu_ [[Paper]](https://arxiv.org/abs/1911.10375)[[Code]](https://github.com/geekyutao/RN)
 * Learning to Incorporate Structure Knowledge for Image Inpainting (AAAI 2020). _Jie Yang, Zhiquan Qi, Yong Shi_ [[Paper]](https://arxiv.org/abs/2002.04170)[[Code]](https://github.com/YoungGod/sturcture-inpainting)
+* Prior Guided GAN Based Semantic Inpainting (CVPR 2020). _Avisek Lahiri, Arnav Kumar Jain, Sanskar Agrawal, Pabitra Mitra, Prabir Kumar Biswas_ [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Lahiri_Prior_Guided_GAN_Based_Semantic_Inpainting_CVPR_2020_paper.html)
+* UCTGAN: Diverse Image Inpainting Based on Unsupervised Cross-Space Translation (CVPR 2020). _Lei Zhao, Qihang Mo, Sihuan Lin, Zhizhong Wang, Zhiwen Zuo, Haibo Chen, Wei Xing, Dongming Lu_ [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.html)
+* Recurrent Feature Reasoning for Image Inpainting (CVPR 2020). _Jingyuan Li, Ning Wang, Lefei Zhang, Bo Du, Dacheng Tao_ [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Recurrent_Feature_Reasoning_for_Image_Inpainting_CVPR_2020_paper.html)[[Code]](https://github.com/jingyuanli001/RFR-Inpainting)
+* Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting (CVPR 2020). _Zili Yi, Qiang Tang, Shekoofeh Azizi, Daesik Jang, Zhan Xu_ [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Yi_Contextual_Residual_Aggregation_for_Ultra_High-Resolution_Image_Inpainting_CVPR_2020_paper.html)[[Code]](https://github.com/Ascend-Huawei/Ascend-Canada/tree/master/Models/Research_HiFIll_Model)
+* 3D Photography Using Context-Aware Layered Depth Inpainting (CVPR 2020). _Meng-Li Shih, Shih-Yang Su, Johannes Kopf, Jia-Bin Huang_ [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.html)[[Code]](https://github.com/vt-vl-lab/3d-photo-inpainting)[[Project]](https://shihmengli.github.io/3D-Photo-Inpainting/)
+* Learning Oracle Attention for High-Fidelity Face Completion (CVPR 2020). _Tong Zhou, Changxing Ding, Shaowen Lin, Xinchao Wang, Dacheng Tao_ [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_Learning_Oracle_Attention_for_High-Fidelity_Face_Completion_CVPR_2020_paper.html)
+* Multistage Attention Network for Image Inpainting (Pattern Recognition 2020) _N Wang, S Ma, J Li, Y Zhang, L Zhang_ [[Paper]](https://www.sciencedirect.com/science/article/pii/S003132032030251X)
 
 
 ## Video Inpainting
