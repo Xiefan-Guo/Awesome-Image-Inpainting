@@ -83,8 +83,11 @@
 * Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting (CVPR 2020). _Zili Yi, Qiang Tang, Shekoofeh Azizi, Daesik Jang, Zhan Xu_ [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Yi_Contextual_Residual_Aggregation_for_Ultra_High-Resolution_Image_Inpainting_CVPR_2020_paper.html)[[Code]](https://github.com/Ascend-Huawei/Ascend-Canada/tree/master/Models/Research_HiFIll_Model)
 * 3D Photography Using Context-Aware Layered Depth Inpainting (CVPR 2020). _Meng-Li Shih, Shih-Yang Su, Johannes Kopf, Jia-Bin Huang_ [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.html)[[Code]](https://github.com/vt-vl-lab/3d-photo-inpainting)[[Project]](https://shihmengli.github.io/3D-Photo-Inpainting/)
 * Learning Oracle Attention for High-Fidelity Face Completion (CVPR 2020). _Tong Zhou, Changxing Ding, Shaowen Lin, Xinchao Wang, Dacheng Tao_ [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_Learning_Oracle_Attention_for_High-Fidelity_Face_Completion_CVPR_2020_paper.html)
-* Multistage Attention Network for Image Inpainting (Pattern Recognition 2020) _N Wang, S Ma, J Li, Y Zhang, L Zhang_ [[Paper]](https://www.sciencedirect.com/science/article/pii/S003132032030251X)
-
+* Multistage Attention Network for Image Inpainting (Pattern Recognition 2020). _N Wang, S Ma, J Li, Y Zhang, L Zhang_ [[Paper]](https://www.sciencedirect.com/science/article/pii/S003132032030251X)
+* Rethinking image inpainting via a mutual encoder-decoder with feature equalization (ECCV 2020).
+* VCNet: A Robust Approach to Blind Image Inpainting (ECCV 2020). _Yi Wang, Ying-Cong Chen, Xin Tao, Jiaya Jia_ [[Paper]](https://arxiv.org/abs/2003.06816)
+* Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes (ECCV 2020). _Liang Liao, Jing Xiao, Zheng Wang, Chia-wen Lin, Shin'ichi Satoh_ [[Paper]](https://arxiv.org/abs/2003.06877)
+* High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling (ECCV 2020). _Yu Zeng, Zhe Lin, Jimei Yang, Jianming Zhang, Eli Shechtman, Huchuan Lu_ [[Paper]](https://arxiv.org/abs/2005.11742)[[Project]](https://zengxianyu.github.io/iic/)
 
 ## Video Inpainting
 
