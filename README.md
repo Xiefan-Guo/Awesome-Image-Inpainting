@@ -3,10 +3,16 @@
 ## Contents
  - [Non-learning Inpainting](#non-learning-inpainting)
  - [Learning Inpainting](#learning-inpainting)
+    - [2015](#2015)
+    - [2016](#2016)
+    - [2017](#2017)
+    - [2018](#2018)
+    - [2019](#2019)
+    - [2020](#2020)
 
 ### Non-learning Inpainting
 
-* Image inpainting (SIGGRAPH 2000).\\_Bertalmio, M., Sapiro, G., Caselles, V., & Ballester, C._ \\[[Paper]](https://www.cse.unr.edu/~bebis/CS474/StudentPaperPresentations/imageinpainting.pdf)
+* Image inpainting (SIGGRAPH 2000). _Bertalmio, M., Sapiro, G., Caselles, V., & Ballester, C._ [[Paper]](https://www.cse.unr.edu/~bebis/CS474/StudentPaperPresentations/imageinpainting.pdf)
 * Simultaneous Structure and Texture Image Inpainting (TIP 2003). _Bertalmio, M., Vese, L., Sapiro, G., & Osher, S._ [[Paper]](https://www.math.ucla.edu/~lvese/PAPERS/01217265.pdf)
 * Region Filling and Object Removal by Exemplar-Based Image Inpainting (TIP 2004). _Criminisi, A., Pérez, P., & Toyama, K._ [[Paper]](http://www.irisa.fr/vista/Papers/2004_ip_criminisi.pdf)
 * Image completion with structure propagation (ToG 2005). _Sun, J., Yuan, L., Jia, J., & Shum, H. Y._ [[Paper]](http://webee.technion.ac.il/cgm/Computer-Graphics-Multimedia/Undergraduate-Projects/2009/ImageCompletion/ImageCompletion_SIGGRAPH05.pdf)
