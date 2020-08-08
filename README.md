@@ -1,73 +1,34 @@
-# Image Inpainting
+# Inpainting
 
 ## Contents
-- [Non-learning Inpainting](#non-learning-inpainting)
-- [Learning Inpainting](#learning-inpainting)
-    - [NIPS 2015](#nips-2015)
-    - [CVPR 2016](#cvpr-2016)
-    - [ToG 2017](#tog-2017)
-    - [CVPR 2017](#cvpr-2017)
-
-## Image Inpainting
+ - [Non-learning Inpainting](#non-learning-inpainting)
+ - [Learning Inpainting](#learning-inpainting)
 
 ### Non-learning Inpainting
 
-**Image inpainting** (SIGGRAPH 2000)
-_Bertalmio, M., Sapiro, G., Caselles, V., & Ballester, C._ 
-[[Paper]](https://www.cse.unr.edu/~bebis/CS474/StudentPaperPresentations/imageinpainting.pdf)
-
-**Simultaneous Structure and Texture Image Inpainting** (TIP 2003)
-_Bertalmio, M., Vese, L., Sapiro, G., & Osher, S._ 
-[[Paper]](https://www.math.ucla.edu/~lvese/PAPERS/01217265.pdf)
-
-**Region Filling and Object Removal by Exemplar-Based Image Inpainting** (TIP 2004)
-_Criminisi, A., Pérez, P., & Toyama, K._ [[Paper]](http://www.irisa.fr/vista/Papers/2004_ip_criminisi.pdf)
-
-**Image completion with structure propagation**(ToG 2005)
-_Sun, J., Yuan, L., Jia, J., & Shum, H. Y._ 
-[[Paper]](http://webee.technion.ac.il/cgm/Computer-Graphics-Multimedia/Undergraduate-Projects/2009/ImageCompletion/ImageCompletion_SIGGRAPH05.pdf)
-
-**PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing**(ToG 2009)
-_Connelly Barnes, Eli Shechtman, Adam Finkelstein, Dan B Goldman_ 
-[[Paper]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf)[[Project]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/)
-
-**Image Completion using Planar Structure Guidance**(ToG 2014)
-_Huang, J. B., Kang, S. B., Ahuja, N., & Kopf, J._ 
-[[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf)[[Code]](https://github.com/jbhuang0604/StructCompletion)[[Project]](https://sites.google.com/site/jbhuang0604/publications/struct_completion)
+* Image inpainting (SIGGRAPH 2000).\\_Bertalmio, M., Sapiro, G., Caselles, V., & Ballester, C._ \\[[Paper]](https://www.cse.unr.edu/~bebis/CS474/StudentPaperPresentations/imageinpainting.pdf)
+* Simultaneous Structure and Texture Image Inpainting (TIP 2003). _Bertalmio, M., Vese, L., Sapiro, G., & Osher, S._ [[Paper]](https://www.math.ucla.edu/~lvese/PAPERS/01217265.pdf)
+* Region Filling and Object Removal by Exemplar-Based Image Inpainting (TIP 2004). _Criminisi, A., Pérez, P., & Toyama, K._ [[Paper]](http://www.irisa.fr/vista/Papers/2004_ip_criminisi.pdf)
+* Image completion with structure propagation (ToG 2005). _Sun, J., Yuan, L., Jia, J., & Shum, H. Y._ [[Paper]](http://webee.technion.ac.il/cgm/Computer-Graphics-Multimedia/Undergraduate-Projects/2009/ImageCompletion/ImageCompletion_SIGGRAPH05.pdf)
+* PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing (ToG 2009). _Connelly Barnes, Eli Shechtman, Adam Finkelstein, Dan B Goldman_ [[Paper]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf)[[Project]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/)
+* Image Completion using Planar Structure Guidance (ToG 2014). _Huang, J. B., Kang, S. B., Ahuja, N., & Kopf, J._ [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf)[[Code]](https://github.com/jbhuang0604/StructCompletion)[[Project]](https://sites.google.com/site/jbhuang0604/publications/struct_completion)
 
 ### Learning Inpainting
 
-#### NIPS 2015
+#### 2015
 
-**Shepard Convolutional Neural Networks**
-_Jimmy SJ. Ren, Li Xu, Qiong Yan, Wenxiu Sun_ 
-[[Paper]](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)[[Code]](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
+* Shepard Convolutional Neural Networks (NIPS 2015). _Ren, J. S., Xu, L., Yan, Q., & Sun, W._ [[Paper]](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)[[Code]](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
 
-#### CVPR 2016
+#### 2016
 
-**Context Encoders: Feature Learning by Inpainting**
-_Pathak, D., Krahenbuhl, P., Donahue, J., Darrell, T., & Efros, A. A._
-[[Paper]](https://arxiv.org/abs/1604.07379)[[Code]](https://github.com/pathak22/context-encoder)
+* Context Encoders: Feature Learning by Inpainting (CVPR 2016). _Pathak, D., Krahenbuhl, P., Donahue, J., Darrell, T., & Efros, A. A._ [[Paper]](https://arxiv.org/abs/1604.07379)[[Code]](https://github.com/pathak22/context-encoder)
 
-#### ToG 2017
+#### 2017
 
-**Globally and Locally Consistent Image Completion**
-_Iizuka, S., Simo-Serra, E., & Ishikawa, H._
-[[Paper]](http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf)[[Code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)[[Project]](http://iizuka.cs.tsukuba.ac.jp/projects/completion/en/)
-
-#### CVPR 2017
-
-**High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis**
-_Yang, C., Lu, X., Lin, Z., Shechtman, E., Wang, O., & Li, H._ 
-[[Paper]](https://arxiv.org/abs/1611.09969)[[Code]](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)
-
-**Generative Face Completion**
-_Li, Y., Liu, S., Yang, J., & Yang, M. H._ 
-[[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Generative_Face_Completion_CVPR_2017_paper.pdf)[[Code]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
-
-**Semantic Image Inpainting with Deep Generative Models**
-_Yeh, R. A., Chen, C., Yian Lim, T., Schwing, A. G., Hasegawa-Johnson, M., & Do, M. N._ 
-[[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeh_Semantic_Image_Inpainting_CVPR_2017_paper.pdf)[[Code]](https://github.com/moodoki/semantic_image_inpainting)[[Project]](http://www.isle.illinois.edu/~yeh17/projects/semantic_inpaint/index.html)
+* Globally and Locally Consistent Image Completion (ToG 2017). _Iizuka, S., Simo-Serra, E., & Ishikawa, H._ [[Paper]](http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf)[[Code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)[[Project]](http://iizuka.cs.tsukuba.ac.jp/projects/completion/en/)
+* High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis (CVPR 2017). _Yang, C., Lu, X., Lin, Z., Shechtman, E., Wang, O., & Li, H._ [[Paper]](https://arxiv.org/abs/1611.09969)[[Code]](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)
+* Generative Face Completion (CVPR 2017). _Li, Y., Liu, S., Yang, J., & Yang, M. H._ [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Generative_Face_Completion_CVPR_2017_paper.pdf)[[Code]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
+* Semantic Image Inpainting with Deep Generative Models (CVPR 2017). _Yeh, R. A., Chen, C., Yian Lim, T., Schwing, A. G., Hasegawa-Johnson, M., & Do, M. N._ [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeh_Semantic_Image_Inpainting_CVPR_2017_paper.pdf)[[Code]](https://github.com/moodoki/semantic_image_inpainting)[[Project]](http://www.isle.illinois.edu/~yeh17/projects/semantic_inpaint/index.html)
 
 #### 2018
 
@@ -125,8 +86,3 @@ _Yeh, R. A., Chen, C., Yian Lim, T., Schwing, A. G., Hasegawa-Johnson, M., & Do,
 * Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes (ECCV 2020). _Liang Liao, Jing Xiao, Zheng Wang, Chia-wen Lin, Shin'ichi Satoh_ [[Paper]](https://arxiv.org/abs/2003.06877)
 * High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling (ECCV 2020). _Yu Zeng, Zhe Lin, Jimei Yang, Jianming Zhang, Eli Shechtman, Huchuan Lu_ [[Paper]](https://arxiv.org/abs/2005.11742)[[Project]](https://zengxianyu.github.io/iic/)
 
-## Video Inpainting
-
-### Non-learning Inpainting
-
-### Learning Inpainting
